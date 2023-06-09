@@ -1,0 +1,8 @@
+{
+  "name": "Project Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cdb009e5"
+}
